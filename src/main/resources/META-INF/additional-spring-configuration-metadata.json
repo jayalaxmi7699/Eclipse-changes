@@ -1,0 +1,26 @@
+{"properties": [
+  {
+    "name": "spring.datasource.author.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.author.url'"
+  },
+  {
+    "name": "spring.datasource.author.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.author.driver-class-name'"
+  }
+]} "description": "A description for 'spring.datasource.author.url'"
+  },
+  {
+    "name": "spring.datasource.author.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.author.password'"
+  }
+]} "description": "A description for 'spring.datasource.author.url'"
+  },
+  {
+    "name": "spring.datasource.author.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.author.username'"
+  }
+]}
